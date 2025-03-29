@@ -10,7 +10,7 @@ Dragonfruit is an exploit dedicated to Evolve on ROBLOX. It includes multiple fe
 
 ## Planned Updates - Evolve
 - Bypass speed anticheat
-The flying thing will bypass the speed anticheat, and maybe the spoof creature speed one too
+* The flying thing will bypass the speed anticheat, and maybe the spoof creature speed one too
 - Copy creature builds
 Annoyed of copylocks? Say no more.
 - Destroy pillars on maps
