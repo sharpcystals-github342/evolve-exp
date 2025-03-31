@@ -1,5 +1,3 @@
-Here's the reformatted text with bold and points swapped:
-
 # Evolve Exploits
 Dragonfruit is an exploit dedicated to Evolve on ROBLOX. It includes multiple features, such as:
 - Moderator detection
@@ -9,6 +7,9 @@ Dragonfruit is an exploit dedicated to Evolve on ROBLOX. It includes multiple fe
 .. and more soon
 
 **Dragonfruit is the successor to Nodal, an evolve exploit revolving around commands, but now there is a UI in Dragonfruit.**
+
+## Planed Internal Updates
+- Migrate to Dear ReGui since Depthso ImGui is discontinued https://github.com/depthso/Dear-ReGui
 
 ## Planned Updates - Evolve
 **Bypass speed anticheat**
