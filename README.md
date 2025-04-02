@@ -12,6 +12,10 @@ Dragonfruit is an exploit dedicated to Evolve on ROBLOX. It includes multiple fe
 - Migrate to Dear ReGui since Depthso ImGui is discontinued https://github.com/depthso/Dear-ReGui
 
 ## Planned Updates - Evolve
+**Touch Aura**
+
+- Just basically Phase Touch, but it comes alive when players come closer in a radius of a sphere set by you
+
 **Bypass speed anticheat**
 
 - The flying thing will bypass the speed anticheat, and maybe the spoof creature speed one too
