@@ -84,3 +84,6 @@ Dragonfruit is an exploit dedicated to Evolve on ROBLOX. It includes multiple fe
 - sharpcystals-github342 The developer
 
 **... that's all**
+
+## Tip
+If the Dragonfruit bootstrapper freezes on loading, and the progress bar doesn't progress: Try re-executing the script
