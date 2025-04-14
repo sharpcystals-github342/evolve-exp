@@ -6,6 +6,11 @@ Dragonfruit is an exploit dedicated to Evolve on ROBLOX. It includes multiple fe
 - Spoof creature speed
 .. and more soon
 
+**Loadstring**
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sharpcystals-github342/Dragonfruit/refs/heads/main/DragonfruitLoader.lua"))()
+```
+
 **Dragonfruit is the successor to Nodal, an evolve exploit revolving around commands, but now there is a UI in Dragonfruit.**
 
 ## Planed Internal Updates
