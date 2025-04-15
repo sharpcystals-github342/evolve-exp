@@ -8,7 +8,7 @@ Dragonfruit is an exploit dedicated to Evolve on ROBLOX. It includes multiple fe
 
 **Usage**
 ```lua
--- Don't execute more than once. It will take time to load
+-- Don't execute more than once. It will take time to load the UI because of obfuscation
 loadstring(game:HttpGet("https://raw.githubusercontent.com/sharpcystals-github342/Dragonfruit/refs/heads/main/DragonfruitLoader.lua"))()
 ```
 
