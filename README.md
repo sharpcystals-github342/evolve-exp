@@ -63,6 +63,3 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/sharpcystals-github34
 
 UI Library:
 - depthso ReGui https://github.com/depthso/Dear-ReGui?tab=readme-ov-file
-
-## Tip
-If the Dragonfruit bootstrapper freezes on loading, and the progress bar doesn't progress: Try re-executing the script
