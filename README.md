@@ -6,40 +6,24 @@ Dragonfruit is an exploit dedicated to Evolve on ROBLOX. It includes multiple fe
 - Spoof creature speed
 .. and more soon
 
-**Loadstring**
+**Usage**
 ```lua
+-- Don't execute more than once. It will take time to load
 loadstring(game:HttpGet("https://raw.githubusercontent.com/sharpcystals-github342/Dragonfruit/refs/heads/main/DragonfruitLoader.lua"))()
 ```
 
-**Dragonfruit is the successor to Nodal, an evolve exploit revolving around commands, but now there is a UI in Dragonfruit.**
-
-## Planed Internal Updates
-- Migrate to Dear ReGui since Depthso ImGui is discontinued https://github.com/depthso/Dear-ReGui
-
 ## Planned Updates - Evolve
-**Touch Aura**
-
-- Just basically Phase Touch, but it comes alive when players come closer in a radius of a sphere set by you
-
 **Bypass speed anticheat**
 
 - The flying thing will bypass the speed anticheat, and maybe the spoof creature speed one too
 
-**Copy creature builds**
-
-- Annoyed of copylocks? Say no more.
-
 **Destroy pillars on maps**
 
-- This is in WIP, but I may finish it later.
+- This is in WIP
 
 **Control creature**
 
 - Just literally fly someone's creature like a pilot. That's all
-
-**Platform**
-
-- Make your creature float, like walking on an invisible platform but for Evolve
 
 **Rotate creature**
 
@@ -61,10 +45,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/sharpcystals-github34
 
 - Spectate a creature from anywhere by setting your camera to it.
 
-**Fix teleport to void on spawn**
-
-- The teleport to void on spawn function doesn't really work that well, and after some time of being in the void, you currently get teleported into the abyss of 64 bit integer limit, I don't know how this happens.
-
 **Execute Infinite Yield**
 
 - Starts the Infinite Yield script
@@ -72,14 +52,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/sharpcystals-github34
 **Fall underground**
 
 - Disable map collisions and fall into the void, instead of using the instant despawn creature. It's like the noclip gone wrong, but intentional.
-
-**Spy on building grid**
-
-- Spy on a player's build grid from their perspective, and if possible, modify it (If the remotes for placing parts aren't secured to their player)
-
-**Spy on player's save slot**
-
-- Spy on a player's save slots, and see what they have in mind
 
 **Check player's food capacity**
 
