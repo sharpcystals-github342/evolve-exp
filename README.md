@@ -4,7 +4,8 @@ Dragonfruit is an exploit dedicated to Evolve on ROBLOX. It includes multiple fe
 - Use touch abilities through anywhere
 - Eat any food on the map
 - Spoof creature speed
-.. and more soon
+- Flying, floating
+...
 
 **Usage**
 ```lua
@@ -47,7 +48,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/sharpcystals-github34
 
 **Execute Infinite Yield**
 
-- Starts the Infinite Yield script
+- Starts the Infinite Yield script for some extra movement stuff
 
 **Fall underground**
 
@@ -60,7 +61,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/sharpcystals-github34
 ## Credits
 - sharpcystals-github342 The developer
 
-**... that's all**
+UI Library:
+- depthso ReGui https://github.com/depthso/Dear-ReGui?tab=readme-ov-file
 
 ## Tip
 If the Dragonfruit bootstrapper freezes on loading, and the progress bar doesn't progress: Try re-executing the script
