@@ -14,6 +14,10 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/sharpcystals-github34
 ```
 
 ## Planned Updates - Evolve
+**Possess**
+
+- An OP feature, that when your player grabs control of another creature eg. Using mandible or host, You can choose one of their body parts like a Lance, or damage things, or even their mouths that can eat to touch another person, eat another food orb, touch a random pillar, or even damage their lances on a rock, or touch a DNA crystal, make them parry another person, give them the hell damage of all medusas on the map, or make them despawn by making them touch the baseplate client side, or even make them go into silklocks
+
 **Bypass speed anticheat**
 
 - The flying thing will bypass the speed anticheat, and maybe the spoof creature speed one too
