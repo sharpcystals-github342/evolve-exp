@@ -16,6 +16,10 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/sharpcystals-github34
 ```
 
 ## Planned Updates - Evolve
+**Reduce Ping Overhead - Optimisation**
+
+- When using Phase abilities like Phase Touch, Touch Aura, Phase Parry, Parry Aura, optimise for lower ping by not using firetouchinterest set to 0 on target part, then set to 1 after 0.1 seconds, then repeat every 0.1 seconds for every part, which causes ping overhead, an efficient way could just be to set to 0 and leave it there if already 0 and exists until disabled
+
 **Possess**
 
 - An OP feature, that when your player grabs control of another creature eg. Using mandible or host, You can choose one of their body parts like a Lance, or damage things, or even their mouths that can eat to touch another person, eat another food orb, touch a random pillar, or even damage their lances on a rock, or touch a DNA crystal, make them parry another person, give them the hell damage of all medusas on the map, or make them despawn by making them touch the baseplate client side, or even make them go into silklocks
